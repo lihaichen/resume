@@ -18,10 +18,10 @@
 
 ## 个人技能  
 1. 熟悉linux、rtthread、nuttx、freeRTOS等系统开发。   
-2. 熟悉C开发，了解C++，了解面向对象编程。
+2. 熟练C开发及面向对象编程。
 3. 熟悉常用外设开发，uart、spi、iic等。
-4. 了解互联网开发。
-5. 了解高级语言golang、python、nodejs、javascript、sql。
+4. 熟悉互联网开发。
+5. 熟悉高级语言golang、python、nodejs、javascript、sql。
 
 
 ## 工作经验   
